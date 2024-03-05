@@ -2,7 +2,7 @@ const { continueStatement } = require('@babel/types');
 const math = require('../math');
 var i = 1
 
-// SOMA ***************************************
+// SOMA *************************************** modificacao double
 for(i=1;i<=100;i++) {
     var a = 2*i
     var b = 3+i
